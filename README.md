@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @KunkkaSon
+- 👀 I’m interested in the best tools in the wowrld...
+- 🌱 I’m currently learning nothing cause i work 8 hrs...
+- 📫 How to reach me dm me? ...
+
+<!---
+KunkkaSon/KunkkaSon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
